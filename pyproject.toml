@@ -1,7 +1,7 @@
 [project]
 name = "lip-reading"
 version = "0.1.0"
-description = "Add your description here"
+description = "Lip Reading model made using DNN"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
